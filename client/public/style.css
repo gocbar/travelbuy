@@ -1,0 +1,104 @@
+/* p {}
+
+p .brown-text {
+  color: brown;
+}
+
+p[draggable] {
+  color: blueviolet;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-radius: 12px;
+}
+
+li {
+  color: green;
+}
+
+.note {
+  font-size: 1.5rem;
+}
+
+h1 {
+  
+}
+
+h1,
+h2 {
+  background-color: #8D7B68;
+  text-align: center;
+  color: #F1DEC9;
+}
+
+h3 {
+  background-color: #C8B6A6;
+}
+
+h4 {
+  background-color: #F1DEC9;
+}
+
+* {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+img {
+  max-width: 300px;
+  height: 200px;
+}
+
+
+html {
+  background-color: #F1DEC9;
+  
+  font-family: 'Kanit', sans-serif;
+  
+}
+*/
+#mystyle {
+  font-family: 'Kanit', sans-serif;
+  background-color: #8D7B68;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+/*
+mystyle, .box {
+  display: flex;
+  flex-direction: row-reverse;
+  color: #F1DEC9;
+  font-weight: bold;
+}
+
+#footstyle {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  color: #211919;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  margin-left: -2px;
+  margin-right: -2px;
+}
+
+.wrapper > div {
+  flex: 1;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+} */

@@ -1,0 +1,4 @@
+basia@MacBook-Pro-Basia travelbuy % git add .
+basia@MacBook-Pro-Basia travelbuy % git log
+basia@MacBook-Pro-Basia travelbuy % git commit -m "Komunikat"
+basia@MacBook-Pro-Basia travelbuy % git push -u origin main
